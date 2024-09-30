@@ -4,7 +4,8 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://topmate.io/sanya_dureja">Contact me</a> -
-  <a href="https://www.linkedin.com/in/sanya-dureja-13960122a/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sanya-dureja-13960122a/">LinkedIn</a> -
+  <a href="https://www.sanyadureja01@gmail.com/">Email</a>
 </p>
 
 -----------------------------------------------------------
@@ -20,6 +21,7 @@ Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&log
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
+<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
