@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanya-dureja-13960122a/">Sanya Dureja</a> </h1>
 
