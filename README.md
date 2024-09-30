@@ -8,7 +8,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanyadureja/sanyadureja/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ AI ML Developer | Prev. Software Engineer Intern @PayPal <br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanya_dureja) <br>
 <!--- Adding Tech Stack open Section -->
