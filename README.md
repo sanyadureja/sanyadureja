@@ -36,5 +36,12 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
  -->
+
+ <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/sanjay-kv">
+   <img height="155em" src="https://raw.githubusercontent.com/sanyadureja/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanya Dureja github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanyadureja/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanya Dureja github stats" />
+<br>
+
   
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
