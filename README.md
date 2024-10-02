@@ -31,11 +31,5 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1ns7rio80970clfskxnv1d6">
-<img src="" width="100px" height="100px" />
-</div>
-</details> 
 
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
