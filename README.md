@@ -34,7 +34,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1ns7rio80970clfskxnv1d6">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="" width="100px" height="100px" />
 </div>
 </details> 
 
