@@ -33,6 +33,16 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </details>
 <br>
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <div align="left">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight" /><br />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" /><br />
+        <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight&bg_color=ffffff" />
+    </div>
+</div>
+
 <div align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight"/><br />
 </div>
