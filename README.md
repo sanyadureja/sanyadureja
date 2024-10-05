@@ -14,7 +14,7 @@
 📫 How to reach me: [Schedule Call](https://topmate.io/sanya_dureja) <br>
 
 <details>
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+ <summary><b>🛠 Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
