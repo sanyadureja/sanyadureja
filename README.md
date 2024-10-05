@@ -39,7 +39,6 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" style="border: none;" /><br />
-        <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight&bg_color=ffffff" style="border: none;" />
     </div>
 </div>
 
