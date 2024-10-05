@@ -39,16 +39,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" /><br />
-        <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight&bg_color=ffffff" />
     </div>
 </div>
-
-<div align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight"/><br />
-</div>
-<br>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
