@@ -34,7 +34,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <br>
 
-<div align="center">
+<div align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight"/><br />
 </div>
 <br>
