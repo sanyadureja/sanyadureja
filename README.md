@@ -34,13 +34,15 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <br>
 
-<div align="left">
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight"/><br />
 </div>
 <br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<h2 align="center">Profile Stats</h2>
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350">
