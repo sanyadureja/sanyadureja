@@ -31,23 +31,14 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; 
 </details>
-
 <br>
 
-<div align="center">
+<div align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight"/><br />
 </div>
 <br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<h2 align="center">Profile Stats</h2>
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350">
-  <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyadureja&theme=tokyonight&hide_border=false&stroke=0000"/>
-</div>
-</div>
 
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
