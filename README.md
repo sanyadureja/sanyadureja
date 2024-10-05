@@ -5,16 +5,15 @@
 <p align="center">
   <a href="https://topmate.io/sanya_dureja">Contact me</a> -
   <a href="https://www.linkedin.com/in/sanya-dureja-13960122a/">LinkedIn</a> -
-  <a href="https://www.sanyadureja01@gmail.com/">Email</a>
+  <a href="mailto:sanyadureja01@gmail.com">Email</a>
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ AI ML Developer | Prev. Software Engineer Intern @PayPal <br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanya_dureja) <br>
 
-
-<details>	
+<details>
  <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
@@ -30,6 +29,8 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; 
+</details>
+
 <br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
