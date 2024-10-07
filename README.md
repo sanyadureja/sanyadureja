@@ -42,4 +42,11 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
     </div>
 </div>
 
+## GSSoC Extd'24 Badges 
+< div style='displax:flex; align items:center; gap: 10px; align='center'> < a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+</a>
+</div>
+
+
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
