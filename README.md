@@ -41,7 +41,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyadureja&theme=github_dark" alt="Stats" class="center" />
 <br>
 
-## GSSoC Extd'24 Badges 
+## GSSoC Extd'24 Badges 🪶
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
