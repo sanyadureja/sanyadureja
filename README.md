@@ -33,14 +33,13 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </details>
 <br>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <div align="left">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=tokyonight" style="border: none;" /><br />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=sanyadureja&show_icons=true&theme=tokyonight" style="border: none;" /><br />
-    </div>
-</div>
+<!--stats-->
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/sanyadureja">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyadureja&theme=github_dark" alt="Sanya Dureja github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyadureja&theme=github_dark" alt="My Top Languages" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyadureja&theme=github_dark" alt="Stats" class="center" />
+<br>
 
 ## GSSoC Extd'24 Badges 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
