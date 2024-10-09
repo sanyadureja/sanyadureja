@@ -50,3 +50,4 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
+[![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
