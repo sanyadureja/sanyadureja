@@ -41,13 +41,13 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyadureja&theme=github_dark" alt="Stats" class="center" />
 <br>
 
-<h2 style="text-decoration: none;">GSSoC'24 Badges 🪶</h2>
+<h2 style="text-decoration: none;">GSSOC(24) Badges 🪶</h2>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
   </a>
 </div>
-
 
 [![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
 
