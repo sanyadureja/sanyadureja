@@ -81,31 +81,31 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
               <strong>Early Bird Pegasaurus</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Registered" width="100" />
               <br>
-              <strong>Adventurer Badge</strong>
+              <strong>Registered</strong>
             </td>
             <td style="padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Trailblazer Badge" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="" width="100" />
               <br>
-              <strong>Trailblazer Badge</strong>
+              <strong>Level 1</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Summit Seeker Badge" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="" width="100" />
               <br>
-              <strong>Summit Seeker Badge</strong>
+              <strong>Level 2</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Champion Badge" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" alt="" width="100" />
               <br>
-              <strong>Champion Badge</strong>
+              <strong>Level 3</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="" width="100" />
               <br>
-              <strong>Postman API Expert Badge</strong>
+              <strong>Level 4</strong>
             </td>
 <!--             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Champion Badge" width="80" />
