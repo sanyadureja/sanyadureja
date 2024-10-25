@@ -9,7 +9,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 ✨ AI/ML Developer | Upcoming Software Engineer 1 @PayPal | Prev. Software Engineer Intern @PayPal <br>
 ✨ I’m looking to collaborate on Open-Source projects. <br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanya_dureja) <br>
@@ -33,7 +33,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; 
 </details>-->
 
-<b>🛠 Tech Stack</b><br><br>
+<b>🛠 Tech Stack</b><br>
 
 <b>Languages:</b> 
 <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
