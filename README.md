@@ -51,7 +51,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 ## :zap: Open Source Programs & Achievements
 
-<div align="center">
+<!<div align="center">
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
@@ -79,6 +79,80 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="https://holopin.io/@sanyadureja">
+	  <br>
+          <img src="https://github.com/user-attachments/assets/1d3551a4-8907-4dab-95fc-0e62f6594620" alt="HacktoberFest 2024" width="120" />
+          <br>
+          <strong>HacktoberFest 2024 Challenge</strong>
+        </a>
+        <br>
+        <!--<span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
+        <br>
+	<br>
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 2,000+ participants<br>
+          PRs Merged: 5<br>
+          Total Badges: 6<br>
+          Total Score: 620<br>
+        </span>-->
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Trailblazer Badge" width="100" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Summit Seeker Badge" width="100" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Champion Badge" width="100" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge" width="100" />
+              <br>
+              <strong>Postman API Expert Badge</strong>
+            </td>
+<!--             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td> -->
+<!--             <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td> -->
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
