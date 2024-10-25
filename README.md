@@ -14,7 +14,7 @@
 ✨ I’m looking to collaborate on Open-Source projects. <br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanya_dureja) <br>
 
-<details>
+<!--<details>
  <summary><b>🛠 Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
@@ -22,7 +22,7 @@ Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&log
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<!--<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
@@ -31,7 +31,34 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; 
-</details>
+</details>-->
+
+<b>🛠 Tech Stack</b><br><br>
+
+<b>Languages:</b> 
+<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
+<br>
+
+<b>Frameworks and Libraries:</b> 
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;
+<br>
+
+<b>Tools and Platforms:</b> 
+<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<br>
+
+<b>Operating Systems:</b> 
+<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
+
 <br>
 
 <!--stats-->
@@ -52,32 +79,35 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 ## :zap: Open Source Programs & Achievements
 
-<div align="center">
+[![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
+
+<br>
+<!--<div align="center">
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="https://holopin.io/@sanyadureja">
-	  <br>
+          <br>
           <img src="https://github.com/user-attachments/assets/1d3551a4-8907-4dab-95fc-0e62f6594620" alt="HacktoberFest 2024" width="120" />
           <br>
           <strong>HacktoberFest 2024 Challenge</strong>
         </a>
         <br>
-        <!--<span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
         <br>
-	<br>
+        <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 2,000+ participants<br>
+          Out of 2,000+ participants<br>
           PRs Merged: 5<br>
           Total Badges: 6<br>
           Total Score: 620<br>
-        </span>-->
+        </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="" width="100" />
+              <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Early Bird Pegasaurus" width="100" />
               <br>
               <strong>Early Bird Pegasaurus</strong>
             </td>
@@ -87,49 +117,33 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
               <strong>Registered</strong>
             </td>
             <td style="padding: 10px;" width="120">
-              <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Level 1" width="100" />
               <br>
               <strong>Level 1</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="Level 2" width="100" />
               <br>
               <strong>Level 2</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" alt="" width="100" />
+              <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" alt="Level 3" width="100" />
               <br>
               <strong>Level 3</strong>
             </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="" width="100" />
+            <td style="padding: 10px;" width="120">
+              <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="Level 4" width="100" />
               <br>
               <strong>Level 4</strong>
             </td>
-<!--             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Champion Badge" width="80" />
-              <br>
-              <strong>Champion Badge</strong>
-            </td> -->
-<!--             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
-              <br>
-              <strong>API Student Expert</strong>
-              <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
-            </td> -->
           </tr>
         </table>
       </td>
     </tr>
   </table>
-</div>
-
-
-
-
+</div>-->
 
 <div align="center">
   <table>
@@ -208,5 +222,5 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <br>
 
-[![An image of @sanyadureja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyadureja)](https://holopin.io/@sanyadureja)
+
 
