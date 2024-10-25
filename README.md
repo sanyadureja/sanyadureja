@@ -95,7 +95,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
           <strong>GirlScript Summer of Code(2024 Extd)</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
+        <!--<span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
         <br>
 	<br>
         <span style="font-size: 12px; color: #777777;">
@@ -103,7 +103,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
           PRs Merged: 5<br>
           Total Badges: 6<br>
           Total Score: 620<br>
-        </span>
+        </span>-->
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
