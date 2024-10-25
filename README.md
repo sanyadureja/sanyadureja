@@ -51,34 +51,6 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 ## :zap: Open Source Programs & Achievements
 
-<!<div align="center">
-  <table>
-    <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
-        <a href="https://holopin.io/@sanyadureja">
-	  <br>
-  		<img src="https://github.com/user-attachments/assets/1d3551a4-8907-4dab-95fc-0e62f6594620" alt="HacktoberFest 2024" width="120" />
-	  <br>
-	  <strong> Hacktober Fest 2024 </strong>
-          <br>
-        </a>
-        <br>
-        <!--<td style="padding: 15px;" valign="top" width="50%">
-        	<table>
-	 		<tr align="center">
-		            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-		              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
-		              <br>
-		              <strong>Explorer Badge</strong>
-		            </td>
-        		</tr>
-          </tr>
-        </table>
-      </td>-->
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <table>
     <tr align="center">
@@ -104,9 +76,9 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
+              <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="" width="100" />
               <br>
-              <strong>Explorer Badge</strong>
+              <strong>Early Bird Pegasaurus</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
               <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
