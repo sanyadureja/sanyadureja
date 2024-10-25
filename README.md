@@ -63,7 +63,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
           <br>
         </a>
         <br>
-        <td style="padding: 15px;" valign="top" width="50%">
+        <!--<td style="padding: 15px;" valign="top" width="50%">
         	<table>
 	 		<tr align="center">
 		            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
@@ -74,7 +74,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
         		</tr>
           </tr>
         </table>
-      </td>
+      </td>-->
     </tr>
   </table>
 </div>
