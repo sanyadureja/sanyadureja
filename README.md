@@ -155,16 +155,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
           <br>
           <strong>GirlScript Summer of Code(2024 Extd)</strong>
         </a>
-        <br>
-        <!--<span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
-        <br>
-	<br>
-        <span style="font-size: 12px; color: #777777;">
-	  Out of 2,000+ participants<br>
-          PRs Merged: 5<br>
-          Total Badges: 6<br>
-          Total Score: 620<br>
-        </span>-->
+        <br> <br>
+	      <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=sanyadureja" target="_blank">Leaderboard Stats</a>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
