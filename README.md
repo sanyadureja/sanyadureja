@@ -201,19 +201,14 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
               <br>
               <strong>Postman API Expert Badge</strong>
             </td>
-<!--             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Champion Badge" width="80" />
-              <br>
-              <strong>Champion Badge</strong>
-            </td> -->
-<!--             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
-              <br>
-              <strong>API Student Expert</strong>
-              <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
-            </td> -->
           </tr>
+	 <tr>
+		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+			 <br>
+			 <strong>GIT Explorer</strong>
+		 </td>
+	 </tr>
         </table>
       </td>
     </tr>
