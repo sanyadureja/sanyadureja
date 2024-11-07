@@ -195,6 +195,12 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
             </td>
           </tr>
 	 <tr>
+		  <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px"
+				  height="100px"/>
+			 <br>
+			 <strong>Hack-Web3Conf</strong>
+		 </td>
 		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
 			 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 			 <br>
