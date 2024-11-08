@@ -206,6 +206,11 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 			 <br>
 			 <strong>GIT Explorer</strong>
 		 </td>
+		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+			 <br>
+			 <strong>Innovator Badge</strong>
+		 </td>
 	 </tr>
         </table>
       </td>
